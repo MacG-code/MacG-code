@@ -42,7 +42,47 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-MacG-code/MacG-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--Lenguajes-->
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">Programming Languages</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,html,java,js,py&perline=14" />
+  </a>
+</p>
+<!--Data Base-->
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">Data Base</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=14" />
+  </a>
+</p>
+
+<!--IDLES-->
+
+
+<!--OS-->
+<!--Tecnologys-->
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">Technological Tools</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,discord,docker,github,postman,vscode&perline=14" />
+  </a>
+</p>
+
+<!--Contact me-->
+
