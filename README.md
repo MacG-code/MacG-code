@@ -19,6 +19,7 @@
 </p>
 <div>
 
+<picture> <img align="right" src="https://github.com/MacG-code/MacG-code/blob/main/Computer.gif?raw=true" width = 250px></picture>
 
   ## 🧭 &nbsp;About Me
 
