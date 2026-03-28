@@ -2,14 +2,12 @@
 🔴🟡🟢
 
 <br>
-
 </div>
 
-
 <div align="center">
-  <h1 align="center"><b>Hi , I'm Mario Andrés Cuevas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center"><b>Hi , I'm Mario Andrés Cuevas </b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-
 </div>
 
 <p align="center">
@@ -19,28 +17,24 @@
     <img src="https://img.shields.io/github/followers/MacG-code?style=social" alt="Followers" />
   </a>
 </p>
-
-
 <div>
 
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Student of systems engineering at the University of Pamplona
+  - 📚 System Engineering Student (10th semester - Universidad de Pamplona)
+  - 💻 Backend Developer focused on scalable and secure applications
+  - 🔐 Interested in Cybersecurity, APIs, and System Design
+  - 🚀 Currently building REST APIs with Django & JWT Authetication
+  - 🌱 Learning advanced backend architectures, DevOps & security practiques
+  - 🤝 Open to collaborate on backend, APIs, and database projects
+  - 📫 Contact: **macgcode8@gmail.com
+  - ⚡ Fun fact: I enjoy turning complex problems into simple and efficient solutions
 
   <br>
   
 
 </div>
-
-
-- 👋 Hi, I’m @MacG-code
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!--Lenguajes-->
 <div id="user-content-toc">
