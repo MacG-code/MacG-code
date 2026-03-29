@@ -4,6 +4,7 @@
 <br>
 </div>
 
+<!--Titulo-->
 <div align="center">
   <h1 align="center"><b>Hi , I'm Mario Andrés Cuevas </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -17,8 +18,9 @@
     <img src="https://img.shields.io/github/followers/MacG-code?style=social" alt="Followers" />
   </a>
 </p>
-<div>
 
+<!--Acerca de mi-->
+<div>
 <picture> <img align="right" src="https://github.com/MacG-code/MacG-code/blob/main/Computer.gif?raw=true" width = 250px></picture>
 
   ## 🧭 &nbsp;About Me
@@ -31,11 +33,18 @@
   - 🤝 Open to collaborate on backend, APIs, and database projects
   - 📫 Contact: **macgcode8@gmail.com
   - ⚡ Fun fact: I enjoy turning complex problems into simple and efficient solutions
-
-  <br>
-  
-
+<br>
 </div>
+
+<!--Estadisticas y Lenguajes utilizados-->
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/MacG-code">
+  <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MacG-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>-->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MacG-code&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--Lenguajes-->
 <div id="user-content-toc">
@@ -46,7 +55,7 @@
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,html,java,js,py&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,html,js,css,c,&perline=14" />
   </a>
 </p>
 <!--Data Base-->
@@ -58,7 +67,7 @@
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,cassandra,mongo&perline=14" />
   </a>
 </p>
 
@@ -75,7 +84,7 @@
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,docker,github,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=linux,git,discord,ubuntu,docker,github,postman,vscode&perline=14" />
   </a>
 </p>
 
