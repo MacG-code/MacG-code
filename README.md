@@ -10,7 +10,7 @@
 <br>
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=MacG-code0&color=blue" alt="Profile views" />
   &nbsp;
   <a href="https://github.com/MacG-code?tab=followers">
