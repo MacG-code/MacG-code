@@ -25,15 +25,16 @@
 <picture> <img align="right" src="https://github.com/MacG-code/MacG-code/blob/main/Computer.gif?raw=true" width = 250px></picture>
 
   ## 🧭 &nbsp;About Me
-
-  - 📚 System Engineering Student (10th semester - Universidad de Pamplona)
-  - 💻 Backend Developer focused on scalable and secure applications
-  - 🔐 Interested in Cybersecurity, APIs, and System Design
-  - 🚀 Currently building REST APIs with Django & JWT Authetication
-  - 🌱 Learning advanced backend architectures, DevOps & security practiques
-  - 🤝 Open to collaborate on backend, APIs, and database projects
-  - 📫 Contact: **macgcode8@gmail.com
-  - ⚡ Fun fact: I enjoy turning complex problems into simple and efficient solutions
+```bash
+  < 📚 System Engineering Student (10th semester - Universidad de Pamplona)
+  < 💻 Backend Developer focused on scalable and secure applications
+  < 🔐 Interested in Cybersecurity, APIs, and System Design
+  < 🚀 Currently building REST APIs with Django & JWT Authetication
+  < 🌱 Learning advanced backend architectures, DevOps & security practiques
+  < 🤝 Open to collaborate on backend, APIs, and database projects
+  < 📫 Contact: **macgcode8@gmail.com
+  < ⚡ Fun fact: I enjoy turning complex problems into simple and efficient solutions
+```
 <br>
 </div>
 
