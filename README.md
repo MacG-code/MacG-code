@@ -50,19 +50,33 @@
 <!--Lenguajes-->
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block">Programming Languages</h2></summary>
+    <summary><h2 style="display: inline-block">Backend & Programming</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,html,js,css,c,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,html,js,css&perline=14" />
   </a>
 </p>
+
+<!--Frameworks-->
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">Frameworks & Technologies</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,dotnet&perline=14" />
+  </a>
+</p>
+
 <!--Data Base-->
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block">Data Base</h2></summary>
+    <summary><h2 style="display: inline-block">Databases</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -75,17 +89,29 @@
 <!--IDLES-->
 
 
-<!--OS-->
-<!--Tecnologys-->
+<!--dev tools-->
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block">Technological Tools</h2></summary>
+    <summary><h2 style="display: inline-block">Dev Tools</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,discord,ubuntu,docker,github,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,docker,github,postman,vscode&perline=14" />
+  </a>
+</p>
+
+<!--Cybersecurity & Systems-->
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">Cybersecurity & Systems</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali&perline=14" />
   </a>
 </p>
 
