@@ -3,6 +3,7 @@
 
 <br>
 </div>
+<img alt="code panel" src="https://github.com/MacG-code/MacG-code/blob/main/Banner%20para%20GitHub.png" width='100%' align="center"/>
 
 <!--Titulo-->
 <div align="center">
