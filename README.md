@@ -70,7 +70,7 @@
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,dotnet&perline=14" />
+    <img src="https://skillicons.dev/icons?i=django,dotnet,astro&perline=14" />
   </a>
 </p>
 
